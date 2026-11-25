@@ -21,7 +21,7 @@ Currently looking for a **Werkstudent role in data analytics, BI or IT systems**
 
 **[FETech Analytics](https://github.com/FabjanElezi/fetech-analytics)** — Retail BI platform: KPI dashboards, RFM customer segmentation, cohort-retention heatmaps and 12-month revenue forecasting with confidence bands.
 
-**[My portfolio](https://fabjanelezi.dev)** — with its own admin panel, so the content is editable without a redeploy. [Source code](https://github.com/FabjanElezi/FEleziTech)
+**[My portfolio](https://fabjanelezi.dev)** — with its own admin panel, so the content is editable without a redeploy. [Source code](https://github.com/FabjanElezi/fabjanelezi.dev)
 
 **[Video Game Library DB](https://github.com/FabjanElezi/videogame-library-db)** — Nine-table MySQL schema in third normal form: junction tables for the many-to-many relations, composite keys, indexed lookups for title search and lending history.
 
